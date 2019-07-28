@@ -67,7 +67,7 @@ hero2.setName('Hulk');
 hero2.setSuitColor('Green');
 hero2.setPower1('Hight Distance Jumping');
 hero2.setPower2('Smashing');
-hero2.setPower3('Speed Running')
+hero2.setPower3('Fact Running')
 console.log('HERO 2 INFO: ', hero2);
 
 console.log('__________________________________________________________________________________________________');
