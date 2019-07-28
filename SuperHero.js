@@ -66,8 +66,8 @@ let hero2 = new SuperHero();
 hero2.setName('Hulk');
 hero2.setSuitColor('Green');
 hero2.setPower1('Hight Distance Jumping');
-hero2.setPower2('Smashing');
-hero2.setPower3('Fact Running')
+hero2.setPower2('Smashing Things');
+hero2.setPower3('Fast Running')
 console.log('HERO 2 INFO: ', hero2);
 
 console.log('__________________________________________________________________________________________________');
